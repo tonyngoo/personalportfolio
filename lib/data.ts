@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "University of Guelph",
     location: "Software Engineering Student",
     description:
-      "In September of 2020, I began my journey as a Software Engineering Co-op student at the University of Guelph, learning about fundamental skills such as Data Structures, Algorithms and OOP.",
+      "In September of 2020, I began my journey as a Software Engineering Co-op student at the University of Guelph, learning fundamental skills such as Data Structures, Algorithms and OOP.",
     icon: React.createElement(LuGraduationCap),
     date: "Sept. 2020",
   },
@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "TD Bank",
     location: "Quality Engineer",
     description:
-      "As a Quality Engineer, I honed on my problem solving and attention-to-detail skills, creating unit tests with Java, Selenium and Gherkin. My tasks included implementing tests for new UI and optimizing both the execution and routing of test cases to ensure test performances were optimal.",
+      "As a Quality Engineer, I honed my problem solving and attention-to-detail skills, creating unit tests with Java, Selenium and Gherkin. My tasks included implementing tests for new UI and optimizing both the execution and routing of test cases to ensure tests were performing as best as possible.",
     icon: React.createElement(CgWorkAlt),
     date: "May 2023 - Aug. 2023",
   },
@@ -63,7 +63,7 @@ export const experiencesData = [
     title: "RBC",
     location: "Software Developer",
     description:
-      "At RBC, I honed on my problem solving and attention-to-detail skills, creating unit tests with Java, Selenium and Gherkin. My tasks included implementing tests for new UI and optimizing both the execution and routing of test cases to ensure test performances were optimal.",
+      "At RBC, I'm currently working with AI (GPT3.5 & GPT4) to aid with legacy system and code migration. Working with AI has uncovered a new passion as I'm learning new things every single day! My stack consists of working with Python, Azure OpenAI, Langchain, LlamaIndex, Ragas, Java, Docker, PostgreSQL, Scala, and Spark.",
     icon: React.createElement(CgWorkAlt),
     date: "Jan. 2024 - Present",
   },

@@ -20,12 +20,12 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
          I'm a fifth-year{" "}
-        <span className="font-medium">Software Engineering</span> Co-op student pursuing a minor in business.
-         I am passionate in both{" "}
+        <span className="font-medium">Software Engineering</span> student at the University of Guelph pursuing a minor in business.
+         I'm passionate in both{" "}
         <span className="font-medium">full-stack web development</span>{" "} and <span className="font-medium">back-end development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
-        feeling of figuring out a solution to a problem. With co-op experience, I have learned various skills and technologies that make me well equipped to tackle any problem.
+        feeling of figuring out a solution to a problem. With co-op experience, I've learned various skills and technologies that make me well equipped to tackle any problem.
         I am always looking to
         learn new technologies; currently I am learning {" "}
         <span className="font-medium">React and AI technologies such as Langchain & Azure OpenAI</span>!{" "}
