@@ -8,12 +8,12 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import { experiencesData } from "@/lib/data";
-import { useSectionInView } from "@/lib/hooks";
+import { UseSectionInView } from "@/lib/hooks";
 import { useTheme } from "@/context/theme-context";
 import "@/app/globals.css";
 
 export default function Experience() {
-  const { ref } = useSectionInView("Experience");
+  const { ref } = UseSectionInView("Experience");
   const { theme } = useTheme();
 
   return (
