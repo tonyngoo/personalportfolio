@@ -62,7 +62,7 @@ export default function intro() {
         >
             <span className="font-bold">Hey there! I'm Tony.</span> I'm a{" "}
             <span className="font-bold">Software Developer </span> with{" "}
-            <span className="font-bold">1.5+ years</span> of experience. I'm early in my tech journey and love to work on <span className="italic">new</span> and {" "} <span className="italic">challenging</span> projects! My focus is in{" "}
+            <span className="font-bold">2+ years</span> of experience. I'm early in my tech journey and love to work on <span className="italic">new</span> and {" "} <span className="italic">challenging</span> projects! My focus is in{" "}
             <span className="underline">back-end</span> and {" "}
             <span className="underline">full-stack development</span>.
         </motion.h1>
