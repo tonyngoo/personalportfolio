@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "Schema App",
     location: "Software Developer",
     description:
-      "In my first job as a software developer, I found my passion for full-stack and back-end development. At Schema App, I made countless code enhancements, optimizations and developed both full-stack pages & components using Javascript, Vue.js, PHP, Python, PHPUnit, Jest, and SPARQL.",
+      "In my first job as a software developer, I found my passion for full-stack and back-end development. At Schema App, I primarily developed client product pages and enhanced existing client tools. I also built full-stack pages and components using Javascript, Vue.js, PHP, Python, PHPUnit, Jest, and SPARQL, helping drive success and solutions for 100+ clients.",
     icon: React.createElement(CgWorkAlt),
     date: "Sept. 2022 - Dec. 2022",
   },
@@ -55,7 +55,7 @@ export const experiencesData = [
     title: "TD Bank",
     location: "Quality Engineer",
     description:
-      "As a Quality Engineer, I honed my problem solving and attention-to-detail skills, creating unit tests with Java, Selenium and Gherkin. My tasks included implementing tests for new UI and optimizing both the execution and routing of test cases to ensure tests were performing as best as possible.",
+      "As a Quality Engineer, I honed my problem solving and attention-to-detail skills, creating unit tests with Java, Selenium and Gherkin. My tasks included designing and developing test cases to validate user stories for business banking clients, and optimizing test case routing. My contributions helped in delivering high-quality software for more than 1,000,000 business clients.",
     icon: React.createElement(CgWorkAlt),
     date: "May 2023 - Aug. 2023",
   },
@@ -63,7 +63,7 @@ export const experiencesData = [
     title: "RBC",
     location: "Software Developer",
     description:
-      "At RBC, I'm currently working with AI (GPT3.5 & GPT4) to aid with legacy system and code migration. Working with AI has uncovered a new passion as I'm learning new things every single day! My stack consists of working with Python, Azure OpenAI, Langchain, LlamaIndex, Ragas, Java, Docker, PostgreSQL, Scala, and Spark.",
+      "At RBC, I'm currently leveraging AI to migrate legacy systems and code. Working with AI has uncovered a new passion as I'm learning new things every single day! My stack consists of working with Python, Azure OpenAI, Langchain, LlamaIndex, Ragas, Java, Docker, PostgreSQL, Scala, and Spark.",
     icon: React.createElement(CgWorkAlt),
     date: "Jan. 2024 - Present",
   },
@@ -81,14 +81,14 @@ export const projectsData = [
   {
     title: "MyFitnessPlanner",
     description:
-      "A full-stack fitness application that allows users to record, edit and plan workout routines. It includes a logic authentication feature using the Supabase database.",
+      "A full-stack fitness application that allows users to record, edit and plan workout routines. Includes a logic authentication feature using the Supabase database.",
     tags: ["Javascript", "Vue.js", "Node.js", "Supabase", "Tailwind"],
     imageUrl: myfitnessplannerImg,
   },
   {
     title: "SVG Parser",
     description:
-      "An SVG file manipulation tool enabling users to upload, select, and edit SVG files, to add and modify individual elements of an SVG file.",
+      "An SVG file manipulation tool enabling users to upload, select, and edit SVG files, to add and modify individual elements of an SVG image.",
     tags: ["C", "Javascript", "Node.js", "Express.js", "HTML", "CSS", "AJAX", "Bootstrap"],
     imageUrl: svgparserImg,
   },
@@ -116,6 +116,7 @@ export const skillsData = [
   "HTML",
   "CSS",
   "PHP",
+  "TypeScript",
   "C",
   "SPARQL",
   "Node.js",
@@ -125,12 +126,17 @@ export const skillsData = [
   "Azure",
   "Flask",
   "PostgreSQL",
+  "MariaDB",
   "MySQL",
   "Ragas",
   "Langchain",
   "LLamaIndex",
   "Azure OpenAI",
-  "TypeScript",
+  "OpenAI",
+  "PromptFoo",
+  "MLFlow",
+  "Langfuse",
+  "ChromaDB",
   "FramerMotion",
   "Git",
   "Docker",
@@ -140,6 +146,8 @@ export const skillsData = [
   "Pandas",
   "Cucumber",
   "Bash",
+  "Matplotlib",
+  "Jenkins"
 
 
 
