@@ -22,17 +22,16 @@ export default function About() {
          I'm a fifth-year{" "}
         <span className="font-medium">Software Engineering</span> student at the University of Guelph pursuing a minor in business as well.
          I'm passionate in{" "}
-        <span className="font-medium">full-stack development</span>,{" "}<span className="font-medium">back-end development</span>{" "} and <span className="font-medium">AI development</span>
+        <span className="font-medium">full-stack development</span>,{" "}<span className="font-medium">back-end development</span>{" "} and <span className="font-medium">AI development</span>. {" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of figuring out a solution to a problem. With co-op experience, I've learned various skills and technologies that make me well equipped to tackle any problem.
         I am always looking to
         learn new technologies; currently I am learning {" "}
-        <span className="font-medium">React and AI technologies such as Langchain & LlamaIndex</span>!{" "}
-        I am currently looking for an{" "}
-        <span className="font-medium">internship</span>{" "} or a {" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        <span className="font-medium">React and AI tools such as PGVector and LangGraph</span>!{" "}
+        I am currently looking for a{" "}
+        <span className="font-medium">full-time position</span> as a <span className="italic">Software
+        Developer</span> or an <span className="italic">AI Engineer</span>.
       </p>
 
       <p>
