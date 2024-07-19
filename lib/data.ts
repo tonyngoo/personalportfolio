@@ -66,7 +66,7 @@ export const experiencesData = [
     description:
       "At RBC, I'm currently leveraging AI to solve problems within the bank related to legacy systems and code. A highlight of my work was building two different frameworks that have now moved to production. The first framework was a service to suggest suitable platforms for an application, and the second was a reusable framework to convert code in any legacy language to Python.",
     icon: React.createElement(CgWorkAlt),
-    date: "Jan. 2024 - Present",
+    date: "Jan. 2024 - Aug. 2024",
   },
   {
     title: "CIBC",
@@ -74,7 +74,7 @@ export const experiencesData = [
     description:
       "As an Application Developer, I will be leveraging Docker and Kubernetes to optimize and deploy applications more efficiently.",
     icon: React.createElement(CgWorkAlt),
-    date: "Jan. 2024 - Present",
+    date: "Sept. 2024 - Present",
   },
   {
     title: "University of Guelph",
