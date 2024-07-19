@@ -118,7 +118,7 @@ export const projectsData = [
   {
     title: "Sum It Up",
     description:
-      "A web application to summarize text passages that leverages LLama3 with custom prompting using Ollama and Langchain to summarize ",
+      "A web application to summarize text passages by leveraging Generative AI using LLama3, along with custom prompting through Ollama and Langchain",
     tags: ["Python", "Llama3", "Langchain", "Ollama", "React", "FastAPI"],
     imageUrl: sumitupImg,
   },
